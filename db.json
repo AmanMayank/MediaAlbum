@@ -1,16 +1,8 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
       "name": "Jacob Collins",
       "id": 2
-    },
-    {
-      "name": "Elizabeth O'Keefe II",
-      "id": 3
     },
     {
       "name": "Howard Sipes Jr.",
